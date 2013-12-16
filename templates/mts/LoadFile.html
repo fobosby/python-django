@@ -1,0 +1,95 @@
+{% extends "mts/Base.html" %}
+{% block title%} Load file{% endblock %}
+{% block content%}
+{#    <div align="center">#}
+{#        {% if form.errors %}#}
+{#            <p style="color: #ff1a00;">#}
+{#            Some errors occurred:#}
+{#            <br>#}
+{#            {% for error in form.errors %}#}
+{#                {{ error }}<br>#}
+{#            {% endfor %}#}
+{#            </p>#}
+{#        {% endif %}#}
+{#        {%  if passed %}#}
+{#            <p style="color: #15ff28;"> {{ passed }}</p>#}
+{#            <p style="background: #2f2f2f; color: orange">#}
+{#                <table style="background: #2f2f2f; color: orange; text-align: center; width: 100%" >#}
+{#                    <tr>#}
+{#                        <td>Date/Time</td>#}
+{#                        <td>Number</td>#}
+{#                        <td>Operator</td>#}
+{#                        <td>Direction</td>#}
+{#                        <td>Data Type</td>#}
+{#                        <td>Duration/Count</td>#}
+{#                    </tr>#}
+{#                    {% for item in result %}#}
+{#                        <tr>#}
+{#                            <td>{{ item.time }}</td>#}
+{#                            <td>{{ item.number }}</td>#}
+{#                            <td>{{ item.operator }}</td>#}
+{#                            <td>{{ item.direction }}</td>#}
+{#                            <td>{{ item.data_type }}</td>#}
+{#                            <td>{{ item.duration }}</td>#}
+{#                        </tr>#}
+{#                    {% endfor %}#}
+{#                </table>#}
+{#            </p>#}
+{#        {% endif %}#}
+{#        <form action="" method="POST" enctype="multipart/form-data">#}
+{#            <table>#}
+{#                {{ form.xml }}#}
+{#            </table>#}
+{#            <input type="submit" value="Load File">#}
+{#        </form>#}
+        <script type="text/javascript">
+            $('#call').removeClass();
+            $('#load').addClass("active");
+        </script>
+
+
+
+        <div class="col-md-12">
+            <div class="row">
+                <div id="alert" class="col-md-4 col-md-offset-4 alert alert-success alert-dismissable hide" style="text-align: center;">
+                    <button type="button" class="close" data-dismiss = "alert">&times;</button>
+                    File successfully uploaded!
+                </div>
+            </div>
+            <div class="row">
+                <div class="progress progress-striped active">
+                    <div class="progress-bar progress-bar-success" style="width: 60%"></div>
+                </div>
+            </div>
+            <h4 style="text-align: center">Load your data... You need XML file from MTS</h4>
+            <form action="" method="post" enctype="multipart/form-data" class="form-horizontal">
+                <div class="form-group">
+                    <label class="col-lg-3 control-label">File name</label>
+                    <div class="col-lg-6">
+                        <div class="input-group" onclick="$('#id_xml').click();">
+                            <input id="file_path" type="text" class="form-control">
+                            <span class="input-group-btn">
+                                <button type="button" class="btn btn-info">Select file</button>
+                            </span>
+                        </div>
+                        <input id="id_xml" type="file" name="xml" style="display: none">
+                    </div>
+                </div>
+{#                {{ form.xml }}#}
+                <button type="submit" class="btn btn-success">Load File</button>
+            </form>
+        </div>
+{#    </div>#}
+{% endblock %}
+{% block scripts %}
+    <script type="text/javascript">
+        $('#id_xml').change(function() {
+            $('#file_path').val($(this).val());
+        });
+    </script>
+    {% if passed %}
+    <script type="text/javascript">
+        $('#alert').removeClass('hide');
+    </script>
+    {% endif %}
+{% endblock %}

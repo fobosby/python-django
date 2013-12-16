@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96fe74cb-476f-418c-8731-f03f926b5699" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/AbstractPool$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/AbstractPool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/BlockingQueuePool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/com/highcharts/export/filter/CorsFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/com/highcharts/export/filter/CorsFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/com/highcharts/export/controller/ExportController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/com/highcharts/export/controller/ExportController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/Highcharts-icon-160px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/Highcharts-icon-160px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/util/MimeType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ObjectFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ObjectPool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/PoolException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/converter/SVGConverter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/converter/SVGConverterException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/Server$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/Server.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ServerObjectFactory$PortStatus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ServerObjectFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/ServerState.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/util/TempDir.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/TimeOut.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/asm-3.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/cglib-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/changelist-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/changelist-bg_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/chooser-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/chooser_stacked-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-codec-1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-fileupload-1.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-io-1.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-lang-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/default-bg-reverse.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/default-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/deleted-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/images/grey-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/images/grey-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/gson-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/highcharts-export-convert-2.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/highcharts-export-convert.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_addlink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_alert.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_changelink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_clock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_deletelink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_error.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_searchbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon_success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete-8bit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-restore-8bit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-restore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-splitter-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/jstl-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/log4j-1.2.14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg-grabber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg-reverse.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg-selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/images/nvd3_sampleLineChart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/selector-search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/graphics/skies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/graphics/snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/standard-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/graphics/sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tool-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tool-left_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tool-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tool-right_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/gfx/vml-radial-gradient.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/AbstractPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/mts/Analitycs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/mts/Base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/BlockingQueuePool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/java/com/highcharts/export/filter/CorsFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CurrentTime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/java/com/highcharts/export/controller/ExportController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/FirstProject.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/GruntFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/colorbrewer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/geographiclib/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/penner/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/polymaps/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/protovis/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/rhill-voronoi/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/mts/LoadFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/util/MimeType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ObjectFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ObjectPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/PoolException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/converter/SVGConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/converter/SVGConverterException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/ScatterChartTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/search/SearchResults.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/search/SearchTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ServerObjectFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/ServerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ShiftedTime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/util/TempDir.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/TestTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/TimeOut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/XMLHttpRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstProject/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/abs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/adder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/albers-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/albers-usa-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/albers-usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/albers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/line-ajax/analytics.tsv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/analyze_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/annotations.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/app-convert.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/app-convert.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/append-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/append.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/arc-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/arc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/area-benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/area-radial-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/area-radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/area-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/area-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/array-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/ascending-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/ascending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/attr-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/awesomechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/axis-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/azimuthal-equal-area-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/azimuthal-equal-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/azimuthal-equidistant-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/azimuthal-equidistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/azimuthal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/beach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/behavior/behavior.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/bilinear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/bisect-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/bisect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/boilerplate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/bounds-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/bounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/bin/bower" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/brush-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/brush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/bullet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/bullet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/backup/bullet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/bulletChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/bulletChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/backup/bulletChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/call-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/cartesian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/category-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/category.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/cell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/centroid-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/centroid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/charts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/chord-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/cie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/circle-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/classed-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/classed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/clip-antimeridian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/clip-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/clip-extent-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/clip-extent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/clip-line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/clip-polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/closetag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/closetag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/cluster-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/cluster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/colorbrewer/colorbrewer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/colorbrewer/colorbrewer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/colorbrewer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/bin/component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/conic-conformal-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/conic-conformal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/conic-equal-area-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/conic-equal-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/conic-equidistant-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/conic-equidistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/conic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/crossfilter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/crossfilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/crossfilter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/crossfilterWithDimentions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/crossfilterWithTables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/dsv/csv-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/dsv/csv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/cumulativeLine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/cumulativeLine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/cumulativeLineChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/charts/cumulativeLineChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/cumulativeLineChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/d3.v2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/d3.v2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/d3.v3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/data-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/phantomjs/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/compat/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/datum-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/datum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/day-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/day.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/dayOfYear-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/days-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/delaunay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/pages/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/pages/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/jsp/org/apache/jsp/WEB_002dINF/pages/demo_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/descending-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/descending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/diagonal-radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/diagonal-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/diagonal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/discreteBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/discreteBarChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/charts/discreteBarChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/discreteBarChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/discreteBarChartWithEnabledTooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/discreteBarChartWithEnabledTooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/discreteBarWithAxes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/discreteBarWithAxes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/event/dispatch-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/dispatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/distance-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/distance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/distribution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/behavior/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/drilldown.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/dsv/dsv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/each-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/ease-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/ease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/ease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/edge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/empty-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/enter-insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/enter-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/enter-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/enter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/entries-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/entries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/equirectangular-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/equirectangular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/pages/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/pages/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/jsp/org/apache/jsp/WEB_002dINF/pages/error_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/spring/export-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/export-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/spring/export-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/extent-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/extent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/filter-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/fisheye.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/foldcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/foldcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/force-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/format-iso-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/format-iso.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/format-locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/format-locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/format-localized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/format-localized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/format/format-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/format-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/format-utc-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/format-utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/format/formatPrefix-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/formatPrefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/formatting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/formatting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/core/functor-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/functor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/geom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/gnomonic-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/gnomonic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/graticule-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/graticule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/greatArc-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/greatArc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/color/hcl-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/hcl-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/hcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/hcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/hierarchy-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/hierarchy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/highcharts-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/phantomjs/highcharts-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/phantomjs/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/highcharts-more.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/phantomjs/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/highcharts.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highstock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/histogram-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/histogram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/historicalBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/historicalBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/historicalBarChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/historicalBarChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/hive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/horizon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/horizon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/hour-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/hour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/hours-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/color/hsl-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/hsl-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/hsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/hsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/html-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/xhr/html-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/xhr/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geom/hull-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/hull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/identity-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/indentedTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/indentedtree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/index-browserify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/area-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/area-inverted/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/area-missing/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/area-negative/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/area-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/area-stacked-percent/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/arearange/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/arearange-line/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/areaspline/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/bar-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/bar-negative-stack/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/bar-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/box-plot/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/bubble/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/bubble-3d/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-drilldown/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-negative/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-parsed/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-rotated-labels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-stacked-and-grouped/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/column-stacked-percent/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/columnrange/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/combo/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/combo-dual-axes/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/combo-multi-axes/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/combo-regression/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/dynamic-click-to-add/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/dynamic-master-detail/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/dynamic-update/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/error-bar/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/funnel/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/gauge-clock/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/gauge-dual/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/gauge-speedometer/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/gauge-vu-meter/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/line-ajax/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/line-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/line-labels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/line-log-axis/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/line-time-series/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/pie-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/pie-donut/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/pie-gradient/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/pie-legend/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/pie-semi-circle/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/polar/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/polar-spider/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/polar-wind-rose/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/renderer/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/scatter/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/spline-inverted/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/spline-irregular-time/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/spline-plot-bands/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/spline-symbols/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/examples/waterfall/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/behavior/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/dsv/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/xhr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/php/php-batik/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/insert-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/interactiveBisectTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/interactiveLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/interpolate-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/interpolate-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/interpolate-transform-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/interpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/interpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/interrupt-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/interrupt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/interval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/javascript-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/javascript-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/jquery.1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/jquery.1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/phantomjs/jquery.1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/xhr/json-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/xhr/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/keys-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/color/lab-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/lab-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/lab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/lab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/legend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/legend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/length-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/length.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/lexl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/lexl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/line-radial-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/line-radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/line-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineChart-old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/lineChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/charts/lineChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/lineChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineChartDaily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/charts/lineChartDaily.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/lineChartSVGResize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/lineChartTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/linePlusBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/linePlusBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/linePlusBarChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/linePlusBarChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/linePlusBarWithFocusChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/linePlusBarWithFocusChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/lineWithFisheye.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/lineWithFisheyeChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/lineWithFisheyeChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineWithFocus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineWithFocus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/lineWithFocusChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/lineWithFocusChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineWithFourAxes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineWithFourAxes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineWithLegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/lineWithLegend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/linear-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/linear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/loadmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/loadmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/bin/locale" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/log-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/map-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/map.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/match-highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/match-highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/max-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/mean-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/mean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/median-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/median.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/mercator-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/mercator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/merge-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/min-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/minute-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/minute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/minutes-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/month-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/monthendAxis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/months-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/adapters/mootools-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/adapters/mootools-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/event/mouse-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/multiBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/multiBarChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiBarChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/multiBarChartTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiBarHorizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/multiBarHorizontalChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiBarHorizontalChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/multiBarHorizontalWithLegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/multiBarHorizontalWithLegend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiBarTimeSeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiBarTimeSeriesChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/multiBarWithLegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/multiBarWithLegend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/multiChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/multiChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/mts/multibarhorizontalchart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/multiplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/multiplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/nations.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/nest-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/nest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/nice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/no-data-to-display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/modules/no-data-to-display.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/node-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/noop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/core/ns-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/ns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/number-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/nv.d3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/nv.d3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/nv.d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/nv.d3.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/nv.d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/object-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/ocean.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/ohlcBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/on-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/order-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/ordinal-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/ordinal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/orthographic-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/orthographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/pack-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/pairs-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/pairs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/parallelCoordinates.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/parallelCoordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/partition-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/partition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/path-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/path-benchmark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/path-bounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/path-buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/path-centroid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/path-context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/path-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/permute-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/permute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/pie-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/pieChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/pieChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/pieChartTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/pig-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/pig-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/point-in-polygon-mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/point-in-polygon-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/point-in-polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geom/polygon-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/polylinear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/polylinearTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/pow-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/pow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/projection-test-suite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/projection-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/projection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/property-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/adapters/prototype-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/adapters/prototype-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geom/quadtree-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/quadtree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/quantile-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/quantile-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/quantile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/quantile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/quantize-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/quantize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/math/random-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/random.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/range-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/phantomjs/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/realTimeChartTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/core/rebind-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/rebind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi/red-black.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/remove-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/format/requote-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/requote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/resample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/color/rgb-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/rgb-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/rgb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/rgb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/rotation-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/rotation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/format/round-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/round-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/format/round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/runmode-standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/runmode-standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/sample.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/sample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/sample.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/sample.tsv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/sample.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/sample.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/lib/sankey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/scale-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/scale-utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/scatter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/scatterChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/scatterChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/scatterChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/scatterChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/scatterFisheyeChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/scatterPlusLineChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/scatterPlusLineChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/scatterWithLegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/scatterWithLegend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/science.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/science.lin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/science.lin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/science.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/science.stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/lib/science/science.stats.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/searchcursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/searchcursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/second-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/seconds-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/select-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/selectAll-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/selectAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/selectAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/selection-select-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/selection-selectAll-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/selection-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/set-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstProject/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/shuffle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/simple-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/simple-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/simple-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/simple-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/size-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/sort-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/sparkline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/sparklinePlus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/sparklinePlus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/spherical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/spring/spring-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/spring/spring-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/spring-convert.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/spring-convert.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/sqrt-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/sqrt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/stackedArea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/stackedArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/stackedArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/stackedAreaChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/stackedAreaChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/charts/stackedAreaChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/models/stackedAreaChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/stackedAreaChartTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/stackedAreaChart_old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/stackedAreaWithLegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/deprecated/stackedAreaWithLegend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/adapters/standalone-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/js/adapters/standalone-framework.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/bin/start" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/stereographic-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/stereographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/stream-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/examples/stream_layers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/interpolate/string-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/style-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/compat/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/subclass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/subtransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/sum-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/svg/symbol-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/svg/symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/testScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/test/teststyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/selection/text-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/xhr/text-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/xhr/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/scale/threshold-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/scale/threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/event/timer-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/event/touch-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/event/touches.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/math/transform-null-matrix-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/math/transform-null-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/math/transform-rotate-origin-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/math/transform-rotate-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/math/transform-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-attrTween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-selectAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-styleTween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test-tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/transition/transition-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/selection/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/transpose-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/transpose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geo/transverse-mercator-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geo/transverse-mercator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/tree-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/layout/treemap-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/layout/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/math/trigonometry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/true.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/dsv/tsv-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/dsv/tsv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/transition/tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/bin/uglify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/uninterpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00007190.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00012170.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00018866.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019274.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019514.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019517.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019520.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019523.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019526.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019529.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019532.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019535.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019538.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019541.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019544.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019547.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00013520.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00016984.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018169.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018319.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018655.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018673.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018760.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018823.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018826.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018829.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018832.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018835.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstProject/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/us-counties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/utilites.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/nvd3/src/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/values-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/values.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/core/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/core/version-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstProject/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mts/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geom/voronoi-benchmark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/geom/voronoi-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/geom/voronoi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/week-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/weeks-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/data/world-countries.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstProject/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/xhr/xhr-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/xhr/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/xml-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/xml-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/xhr/xml-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/xhr/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hicharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/color/xyz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/year-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/time/year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/time/years-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/test/arrays/zip-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/arrays/zip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/behavior/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/d3/src/interpolate/zoom.js" />
+    </list>
+    <ignored path="FirstProject.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FirstProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LoadFile.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/mts/LoadFile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="8" selection-start="1842" selection-end="1972" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="1800">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Analitycs.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/mts/Analitycs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="14" selection-start="727" selection-end="727" vertical-scroll-proportion="0.5294118" vertical-offset="126" max-vertical-offset="720">
+              <folding>
+                <element signature="e#577#598#0" expanded="true" />
+                <element signature="e#683#705#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/mts/Base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="33" selection-start="1459" selection-end="1459" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mts/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="55" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mts/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="22" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="198">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alexey" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/FirstProject/settings.py" />
+        <option value="$PROJECT_DIR$/static/nvd3/deprecated/bar.js" />
+        <option value="$PROJECT_DIR$/mts/utilites.py" />
+        <option value="$PROJECT_DIR$/templates/mts/multibarhorizontalchart.html" />
+        <option value="$PROJECT_DIR$/static/hicharts/examples/bar-basic/index.htm" />
+        <option value="$PROJECT_DIR$/FirstProject/urls.py" />
+        <option value="$PROJECT_DIR$/templates/mts/analyze_style.css" />
+        <option value="$PROJECT_DIR$/mts/charts.py" />
+        <option value="$PROJECT_DIR$/mts/models.py" />
+        <option value="$PROJECT_DIR$/static/css/analyze_style.css" />
+        <option value="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.css" />
+        <option value="$PROJECT_DIR$/templates/mts/CallAnalyze.html" />
+        <option value="$PROJECT_DIR$/mts/views.py" />
+        <option value="$PROJECT_DIR$/templates/mts/Base.html" />
+        <option value="$PROJECT_DIR$/templates/mts/LoadFile.html" />
+        <option value="$PROJECT_DIR$/templates/mts/Analitycs.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.27-bin.jar" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/nvd3" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/static/JS" />
+      <recent name="$PROJECT_DIR$/templates/search" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.FirstProject">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FirstProject" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="FirstProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstProject" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.FirstProject" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96fe74cb-476f-418c-8731-f03f926b5699" name="Default" comment="" />
+      <created>1385822392396</created>
+      <updated>1385822392396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2189394" sideWeight="0.688" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50877196" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.312" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3094099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FirstProject/views.py</url>
+          <line>31</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/mts/views.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="39" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="0" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.1509434" vertical-offset="830" max-vertical-offset="1422" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="806" column="0" selection-start="10230" selection-end="10230" vertical-scroll-proportion="7.0085764" vertical-offset="10422" max-vertical-offset="128214" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="59670" selection-start="59818" selection-end="59818" vertical-scroll-proportion="0.18524872" vertical-offset="0" max-vertical-offset="583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="63" selection-start="6940" selection-end="6940" vertical-scroll-proportion="0.84563756" vertical-offset="3420" max-vertical-offset="7236" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mts/charts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="87" selection-start="530" selection-end="604" vertical-scroll-proportion="0.45302013" vertical-offset="0" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/analyze_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.36241612" vertical-offset="0" max-vertical-offset="596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/CurrentTime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/BaseTemplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="190" selection-end="190" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mts/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="30" selection-start="1061" selection-end="1069" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.87096775" vertical-offset="387" max-vertical-offset="738">
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="55" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mts/Base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="33" selection-start="1459" selection-end="1459" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mts/LoadFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="8" selection-start="1842" selection-end="1972" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mts/Analitycs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="14" selection-start="727" selection-end="727" vertical-scroll-proportion="0.5294118" vertical-offset="126" max-vertical-offset="720">
+          <folding>
+            <element signature="e#577#598#0" expanded="true" />
+            <element signature="e#683#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

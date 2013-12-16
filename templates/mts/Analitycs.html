@@ -1,0 +1,35 @@
+{% extends "mts/Base.html" %}
+{% block title %}
+    Calls Analytics
+{% endblock %}
+{% block content%}
+    <script type="text/javascript">
+            $('#call').addClass("active");
+            $('#load').removeClass();
+        </script>
+    <div class="row">
+          <div class="col-md-6 col-sm-12 col-xs-12" id="time_chart"></div>
+          <div class="col-md-6 col-sm-12 col-xs-12">
+              <h4>
+                Total outgoing calls : 123300 seconds
+              </h4>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 pull-down" id="velcom_summary" style="height: 300px"></div>
+          <div class="col-md-3 col-sm-6 col-xs-6 pull-down" id="mts_summary" style="height: 300px "></div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-md-6 col-sm-12 col-xs-12" id="call_count_chart"></div>
+          <div class="col-md-6 col-sm-12 col-xs-12" id="call_avg_chart"></div>
+        </div>
+    </div>
+{% endblock content %}
+{% block scripts %}
+    <script type="text/javascript">
+        $(function () {$('#time_chart').highcharts({{ time_chart }})});
+        $(function () {$('#call_count_chart').highcharts({{ call_count_chart }})});
+        $(function () {$('#call_avg_chart').highcharts({{ call_avg_chart }})});
+        $(function () {$('#velcom_summary').highcharts({{ velcom_summary }})});
+        $(function () {$('#mts_summary').highcharts({{ mts_summary }})});
+    </script>
+{% endblock %}

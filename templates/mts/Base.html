@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Call analyzer -
+        {% block title%}{% endblock %}
+    </title>
+    {% load static from staticfiles%}
+    <link rel="stylesheet" href={% static "bootstrap/css/bootstrap.css" %}>
+    <link rel="stylesheet" href={% static "bootstrap/css/bootstrap.min.css" %}>
+    <link href="{% static 'css/analyze_style.css' %}" rel="stylesheet" type="text/css">
+    <script src={% static "hicharts/js/jquery-1.10.2.min.js"%}></script>
+    <script src={% static "hicharts/js/highcharts.js"%}></script>
+    <script src={% static "hicharts/js/highcharts-more.js"%}></script>
+    <script src={% static "hicharts/js/modules/exporting.js" %} ></script>
+    <script src={% static "hicharts/js/themes/gray.js" %}></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>AnalyzeIT</h2>
+            </div>
+        </div>
+        <div class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <a class="navbar-brand"><span class="glyphicon glyphicon-home"></span> Home</a>
+                <ul class="nav navbar-nav">
+                    <li id="call"><a href="/analyze">Calls Analytics</a></li>
+                    <li id="sms"><a href="#">SMS</a></li>
+                    <li id="internet"><a href="#">Internet</a></li>
+                    <li id="load"><a href="/load_file">Load   information to DB</a></li>
+                </ul>
+            </div>
+        </div>
+        {% block content %}
+        {% endblock %}
+    </div>
+    <script src={% static "bootstrap/js/bootstrap.js" %}></script>
+    {% block scripts %}{% endblock %}
+</body>
+</html>

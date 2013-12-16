@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search results</title>
+</head>
+<body>
+    {% if result %}
+        <h4>Search results:</h4>
+        <table border="1">
+            <tr>
+                <td>Title</td>
+                <td>Authors</td>
+                <td>Publisher</td>
+            </tr>
+            {% for item in result %}
+                <tr>
+                <td>{{ item.title }}</td>
+                <td>
+{#                    {% for auth in  item.authors %}#}
+{#                        {{ auth }}#}
+{#                    {% endfor %}#}
+                </td>
+                <td>{{ item.publisher }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <h4>Nothing found!</h4>
+        <br>
+    {% endif %}
+    <h5>System information:</h5>
+    <table border="1">
+        <tr>
+            <td>Key:</td>
+            <td>Value:</td>
+        </tr>
+        {% for key,value in sys_info.items %}
+            <tr>
+                <td> {{ key }} </td>
+                <td> {{ value }} </td>
+            </tr>
+        {% endfor %}
+    </table>
+    {{ result }}
+</body>
+</html>
